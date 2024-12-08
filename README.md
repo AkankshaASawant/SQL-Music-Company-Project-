@@ -1,4 +1,4 @@
-# SQL Music Library Database
+# SQL Music Company Database
 
 ## Project Overview
 This project involves the creation of a relational database system for managing a music library. It contains tables for **bands**, **albums**, and **songs**, with their relationships defined using foreign keys. The database is designed to store data about music bands, their albums, and the songs within those albums. The project demonstrates a comprehensive approach to relational database design and implementation using SQL.
